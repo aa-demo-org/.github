@@ -1,0 +1,13 @@
+{
+    "name": "aa-demo-org workflow",
+    "description": "aa-demo-org CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
