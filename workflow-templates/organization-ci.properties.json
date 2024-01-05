@@ -3,7 +3,7 @@
     "description": "aa-demo-org CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "python"
     ],
     "filePatterns": [
         "package.json$",
